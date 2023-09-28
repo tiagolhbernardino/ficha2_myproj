@@ -1,1 +1,5 @@
 Este é o exemplo de um ficheiro de texto file 1
+
+
+
+Fiz uma alteração ao file1
