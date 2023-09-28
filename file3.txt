@@ -1,1 +1,5 @@
 Este é o exemplo de um ficheiro de texto file3
+
+
+
+Linha adicionada no ficheiro de texto file3
